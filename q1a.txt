@@ -1,0 +1,6 @@
+Increasing theta rotates the coordinate system
+clockwise on the screen. The x-axis is the vector
+(1, 0) which maps to (cos theta, sin theta).
+
+So, y-axis is down -> clockwise rotation
+y-axis is up -> counterclockwise rotation.

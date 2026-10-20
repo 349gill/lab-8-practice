@@ -1,0 +1,2 @@
+top-left triangle: (200, 150), (200, 450), (600, 150)
+bottom-right triangle: (200, 450), (600, 450), (600, 150)
